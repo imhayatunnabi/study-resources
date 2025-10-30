@@ -1,5 +1,11 @@
 # Interview Preparation Compendium
 
+<p align="center">
+  <strong>Docs:</strong>
+  <a href="./README.md">Overview</a> ·
+  <a href="./interview-preparation-compendium.md">Interview Compendium</a>
+</p>
+
 This master document aggregates all study guides from this directory into a single, easy-to-navigate reference. Each section preserves the original content and internal table of contents so you can drill down into specific topics as needed.
 
 ## Navigation
