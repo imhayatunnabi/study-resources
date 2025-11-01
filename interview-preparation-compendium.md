@@ -917,7 +917,6 @@ Below is an expanded **Markdown file** section focusing exclusively on **Relatio
 
 ---
 
-```markdown
 ## Relational Databases, Relationships, Joins, Polymorphism, and Indexing <a id="spbp-relational-databases-relationships-joins-polymorphism-and-indexing"></a>
 
 This section covers theoretical, practical, scenario-based, and logical questions related to relational databases, focusing on relationships (one-to-one, one-to-many, many-to-many), joins (INNER JOIN, LEFT JOIN, RIGHT JOIN, etc.), polymorphic relationships, and indexing. These questions are tailored for a Senior PHP Backend Developer, emphasizing conceptual understanding and real-world applications without coding.
