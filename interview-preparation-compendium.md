@@ -15,7 +15,6 @@ This master document aggregates all study guides from this directory into a sing
 - [Senior Laravel Developer Interview Guide 2025](#laravel-senior-laravel-developer-interview-guide-2025)
 - [Setting Up a Laravel Multi-Tenancy Server on Hostinger VPS with Deployment Process](#multitenancy-setting-up-a-laravel-multi-tenancy-server-on-hostinger-vps-with-deployment-process)
 - [Senior JavaScript Full-Stack Developer Interview Guide](#js-senior-javascript-full-stack-developer-interview-guide)
-- [Top 100 MERN Stack Interview Questions and Answers for Mid-Senior Developers](#mern-top-100-mern-stack-interview-questions-and-answers-for-mid-senior-developers)
 
 > **Tip:** Use the navigation list above or your editor's outline view to jump directly to a section. Each section ends with a horizontal rule so you know where one resource finishes and the next begins.
 
