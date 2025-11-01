@@ -13,7 +13,6 @@ This master document aggregates all study guides from this directory into a sing
 - [Senior PHP Backend Developer Interview Guide 2025](#spbg2025-senior-php-backend-developer-interview-guide-2025)
 - [Comprehensive Database Concepts for MySQL and PostgreSQL: From Basic to Advanced](#db-comprehensive-database-concepts-for-mysql-and-postgresql-from-basic-to-advanced)
 - [Senior Laravel Developer Interview Guide 2025](#laravel-senior-laravel-developer-interview-guide-2025)
-- [Senior JavaScript Full-Stack Developer Interview Guide](#js-senior-javascript-full-stack-developer-interview-guide)
 
 > **Tip:** Use the navigation list above or your editor's outline view to jump directly to a section. Each section ends with a horizontal rule so you know where one resource finishes and the next begins.
 
